@@ -1,0 +1,3 @@
+spring:
+    cache:false
+    #mode: LEGACYHTML5
