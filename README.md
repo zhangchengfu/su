@@ -43,3 +43,4 @@ spring boot中文乱码解决：
         }
     }
 
+4,启动项目后，http://localhost:8080,用户名：admin，密码：123456
